@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Join Channel Replica",
+  "description": "A high-fidelity mobile replica of the Blockchain Alliance Telegram join channel web page with animated tiled doodle backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
